@@ -72,7 +72,7 @@ const Home = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full blur-2xl opacity-20 animate-pulse"></div>
                 <div className="relative w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-white dark:border-gray-700 shadow-2xl">
                   <img
-                    src="/public/hero.jpeg" // Ensure this image is in the public folder
+                    src="/hero.jpeg" // Ensure this image is in the public folder
                     alt="Lavish Atrey"
                     className="w-full h-full object-cover"
                   />
