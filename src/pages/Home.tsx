@@ -54,7 +54,7 @@ const Home = () => {
 
                 {/* Download CV Button */}
                 <a
-                  href="https://drive.google.com/file/d/1Rlqgef4ba8N7CDYXWwic03qffTJ8hbJn/view?usp=sharing" // Put this PDF in the public folder
+                  href="https://drive.google.com/file/d/1GvexAVbc0E1Hb-hroCCQkWUJq0xASWrZ/view?usp=sharing" // Put this PDF in the public folder
                   download
                   className="inline-flex items-center justify-center px-8 py-3 border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 font-semibold rounded-full hover:border-blue-600 hover:text-blue-600 dark:hover:border-blue-400 dark:hover:text-blue-400 transform hover:scale-105 transition-all duration-200"
                 >
