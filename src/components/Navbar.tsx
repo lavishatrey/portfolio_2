@@ -15,6 +15,7 @@ const Navbar: React.FC<NavbarProps> = ({ darkMode, toggleDarkMode }) => {
     { name: 'Home', href: '/' },
     { name: 'About', href: '/about' },
     { name: 'Projects', href: '/projects' },
+    { name: 'My Notes', href: '/mynotes' },
     { name: 'Contact', href: '/contact' },
   ];
 
